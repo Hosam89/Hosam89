@@ -1,5 +1,5 @@
-<h1 align="center">string myName= Hosam;
- int age = 33 ;
+<h1 align="center">string myName= Hosam; <br>
+ int age = 33 ;<br>
  squr(Hosam) = Syria
  </h1>
 <h3 align="center">on the way to be come the Web Developer</h3>
