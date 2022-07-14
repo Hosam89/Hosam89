@@ -1,4 +1,6 @@
-<h1 align="center">string myName= Hosam
+<h1 align="center">string myName= Hosam;
+ int age = 33 ;
+ squr(Hosam) = Syria
  </h1>
 <h3 align="center">on the way to be come the Web Developer</h3>
 
