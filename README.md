@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [C++ , Matlab](C++ , Matlab)
 
-- ⚡ Fun fact 0 **Queen Elizabeth II is a trained mechanic**
+- ⚡ Fun fact  **Queen Elizabeth II is a trained mechanic**
 
 
 <h3 align="left">Languages and Tools:</h3>
