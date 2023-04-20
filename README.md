@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **hosamothman1@gmail.com**
 
-- 📄 Know about my experiences [C++ , Matlab](C++ , Matlab)
+- 📄 Know about my experiences [C++ , Matlab](C++ , Matlab), React, JavaScript, typescript, HTML5, CSS
 
 - ⚡ Fun fact  **Queen Elizabeth II is a trained mechanic**
 
