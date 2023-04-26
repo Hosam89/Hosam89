@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences , React, JavaScript, typescript, HTML5, CSS, C++ , Matlab
 
-- ⚡ Fun fact  **Queen Elizabeth II is a trained mechanic**
+- ⚡ Fun fact  **i like to do stuff**
 
 
 <h3 align="left">Languages and Tools:</h3>
